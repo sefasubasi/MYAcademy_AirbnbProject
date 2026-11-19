@@ -1,4 +1,4 @@
-using MYAcademy_AirbnbProject.Settings.MongoDbSettings;
+//using MYAcademy_AirbnbProject.Settings.MongoDbSettings;
 var builder = WebApplication.CreateBuilder(args);
 
 // MongoDB Ayarları
